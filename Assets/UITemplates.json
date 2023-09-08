@@ -1,0 +1,140 @@
+{
+    "templates": [
+        {
+            "name": "BGMI",
+            "imageConfiguration": {
+                "instanceID": 22554
+            },
+            "backGroundImage": {
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "height": 310.0,
+                "width": 515.0,
+                "textArea": "",
+                "image": {
+                    "instanceID": 0
+                },
+                "button": {
+                    "instanceID": 0
+                }
+            },
+            "adIcon": {
+                "position": {
+                    "x": -150.0,
+                    "y": 68.0,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "height": 100.0,
+                "width": 100.0,
+                "textArea": "",
+                "image": {
+                    "instanceID": 0
+                },
+                "button": {
+                    "instanceID": 0
+                }
+            },
+            "adName": {
+                "position": {
+                    "x": 74.0,
+                    "y": 81.0,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "height": 50.0,
+                "width": 200.0,
+                "textArea": "BGMI",
+                "image": {
+                    "instanceID": 0
+                },
+                "button": {
+                    "instanceID": 0
+                }
+            },
+            "adDiscription": {
+                "position": {
+                    "x": 23.0,
+                    "y": -33.0,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 0.800000011920929,
+                    "y": 0.800000011920929,
+                    "z": 0.800000011920929
+                },
+                "height": 105.0,
+                "width": 615.0,
+                "textArea": "Install BGMI- Click on the Install button",
+                "image": {
+                    "instanceID": 0
+                },
+                "button": {
+                    "instanceID": 0
+                }
+            },
+            "installButton": {
+                "position": {
+                    "x": 6.0,
+                    "y": -110.0,
+                    "z": -0.10000000149011612
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "height": 60.0,
+                "width": 410.0,
+                "textArea": "",
+                "image": {
+                    "instanceID": 0
+                },
+                "button": {
+                    "instanceID": 0
+                }
+            }
+        }
+    ]
+}
